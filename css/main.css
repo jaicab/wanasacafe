@@ -13,8 +13,8 @@
 
 html {
   position: relative;
-  color: #284000;
-  background: #C39A8C;
+  color: #565000;
+  background: #dc9a81;
   font-size: 1em;
   line-height: 1.4;
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
@@ -23,13 +23,22 @@ html {
 
 body {
   margin: 0 auto;
-  text-align: center;
   height: 100%;
+}
+
+
+.center {
+  text-align: center;
+}
+
+.caps {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
 }
 
 .content {
   position: absolute;
-  max-width: 40em;
+  max-width: 36em;
   left: 0;
   right: 0;
   margin: auto;
@@ -46,10 +55,9 @@ body {
 
 .tagline {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  line-height: 2;
   font-weight: 500;
+  margin: 0.5em 0;
+  line-height: 1.8;
 }
 
 h1,
@@ -59,6 +67,10 @@ h4,
 h5,
 h6 {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+.alt {
+  color: white;
 }
 
 
@@ -90,14 +102,25 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 3px solid #fff;
+  border-top: 4px solid #fff;
   padding: 0;
   max-width: 20%;
   margin: 3em auto;
 }
 
+
+@media all and (min-width: 40em) {
+  body {
+    text-align: center;
+  }
+
+  hr {
+    margin: 4em auto;
+  }
+}
+
 a {
-  color: #F0D522;
+  color: #ffe431;
 }
 
 /*
