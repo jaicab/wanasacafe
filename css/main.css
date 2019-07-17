@@ -13,8 +13,8 @@
 
 html {
   position: relative;
-  color: #4e4d42;
-  background: #ea9f82;
+  color: #465402;
+  background: #e2c18a;
   font-size: 1em;
   line-height: 1.4;
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
@@ -120,7 +120,7 @@ hr {
 }
 
 a {
-  color: #ffe431;
+  color: #ffff54;
 }
 
 /*
