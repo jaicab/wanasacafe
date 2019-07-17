@@ -13,8 +13,9 @@
 
 html {
   position: relative;
-  color: #465402;
-  background: #e2c18a;
+  color: #0E3300;
+  color: #192914;
+  background: #a39076;
   font-size: 1em;
   line-height: 1.4;
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
@@ -71,6 +72,7 @@ h6 {
 
 .alt {
   color: white;
+  opacity: 0.66;
 }
 
 
@@ -120,7 +122,7 @@ hr {
 }
 
 a {
-  color: #ffff54;
+  color: inherit;
 }
 
 /*
