@@ -11,6 +11,12 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 html {
   position: relative;
   color: #0E3300;
@@ -110,13 +116,30 @@ h6 {
  */
 
 hr {
+  position: relative;
   display: block;
-  height: 1px;
   border: 0;
-  border-top: 2px solid #040056;
   padding: 0;
-  max-width: 20%;
   margin: 3em auto;
+  border-top: 1px solid #fff;
+  max-width: 30%;
+}
+
+hr:before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  background: #040056;
+  transform: rotate(45deg);
+  border: 1px solid #fff;
+  box-shadow: 0 0 0 5px #AFA08D;
+  width: 12px;
+  height: 12px;
 }
 
 
