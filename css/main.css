@@ -19,15 +19,16 @@
 
 html {
   position: relative;
-  color: #0E3300;
+  color: #0e3300;
   color: #192914;
-  color: white;
+  color: rgba(255, 255, 255, 0.7);
   background: #a39076;
   background: #ab967b;
-  background: #AFA08D;
+  background: #afa08d;
+  background: #638d7e;
   font-size: 1em;
   line-height: 1.4;
-  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
   height: 100%;
 }
 
@@ -36,7 +37,6 @@ body {
   height: 100%;
   letter-spacing: 0.01em;
 }
-
 
 .center {
   text-align: center;
@@ -67,13 +67,17 @@ body {
   max-width: 80%;
   width: 16em;
   margin: 1em 0;
+
+  filter: drop-shadow(2px 5px 0 rgba(51, 88, 82, 1));
+  /*#335852*/
 }
 
 .tagline {
-  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
   font-weight: 500;
   margin: 0.5em 0;
   line-height: 1.8;
+  color: #335852;
 }
 
 h1,
@@ -82,14 +86,13 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
 }
 
 .alt {
   color: white;
   opacity: 0.75;
 }
-
 
 /*
  * Remove text-shadow in selection highlight:
@@ -126,7 +129,7 @@ hr {
 }
 
 hr:before {
-  content: '';
+  content: "";
   display: block;
   position: absolute;
   top: 0;
@@ -135,13 +138,14 @@ hr:before {
   left: 0;
   margin: auto;
   background: #040056;
+  background: #335852;
+  opacity: 8%;
   transform: rotate(45deg);
   border: 1px solid #fff;
-  box-shadow: 0 0 0 5px #AFA08D;
+  box-shadow: 0 0 0 5px #638d7e;
   width: 12px;
   height: 12px;
 }
-
 
 @media all and (min-width: 40em) {
   body {
@@ -370,4 +374,3 @@ textarea {
     page-break-after: avoid;
   }
 }
-
