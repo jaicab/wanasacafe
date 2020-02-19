@@ -25,6 +25,7 @@ html {
   background: #a39076;
   background: #ab967b;
   background: #ffefd0;
+  background: #fff3dd;
   font-size: 1em;
   line-height: 1.4;
   font-family: "Roboto", Arial, Helvetica, sans-serif;
@@ -47,6 +48,23 @@ header {
   border-bottom: 5px solid white;
 }
 
+input {
+  font: inherit;
+}
+
+p {
+  line-height: 1.45;
+}
+
+ul {
+  margin: 0 0 0 1em;
+  padding: 0;
+}
+
+li {
+  margin: 0.2em 0;
+}
+
 header .description {
   text-align: center;
   max-width: 25em;
@@ -54,8 +72,15 @@ header .description {
 }
 
 .c-h2 {
-  font-size: 1.3em;
+  font-size: 1.6em;
+  font-weight: 700;
+}
+
+.c-h3 {
+  color: #335852;
+  font-size: 1.1em;
   font-weight: 600;
+  margin-top: 1.5em;
 }
 
 .center {
