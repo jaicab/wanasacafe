@@ -93,6 +93,7 @@ header .description {
   font-size: 2.5em;
   margin: 0.75em auto 0.25em;
   line-height: 1;
+  letter-spacing: 2.5px;
 }
 
 .c-h2 {
