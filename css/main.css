@@ -75,7 +75,7 @@ li {
 }
 
 h1 {
-  font-size: 1.65em;
+  font-size: 1.6em;
 }
 
 h2 {
@@ -94,6 +94,20 @@ header .description {
   margin: 0.75em auto 0.25em;
   line-height: 1;
   letter-spacing: 2.5px;
+}
+
+.google-maps {
+  position: relative;
+  padding-bottom: 40%; // This is the aspect ratio
+  height: 0;
+  overflow: hidden;
+}
+.google-maps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
 }
 
 .c-h2 {
