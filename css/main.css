@@ -178,7 +178,7 @@ header .description {
   position: relative;
   background: rgba(255, 255, 255, 0.4);
   border: 5px double #638d7e;
-  padding: 2.5em 0 0.5em;
+  padding: 2.5em 0;
   margin: 2em 0 0;
 }
 
