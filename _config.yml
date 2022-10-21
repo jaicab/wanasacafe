@@ -2,9 +2,10 @@
 title: Wanasacafe
 timezone: UTC
 collections:
-  landing:
-    title: Landing
+  home:
+    title: Home
     output: true
+    test: value
   posts:
     title: Posts
     output: true
