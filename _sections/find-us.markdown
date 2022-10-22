@@ -3,7 +3,7 @@ title: Find Us
 date: 2022-10-22 13:20:00 +01:00
 position: 4
 tagline: 'We are a 6 min walk from Winchmore Hill train station. '
-box_body: "### For opening hours, please check our Instagram @[{{site.Instagram}}](https://instagram.com/{{site.Instagram}})"
+box_body: "### For opening hours, please check our Instagram @[wanasakitchen](https://instagram.com/wanasakitchen)"
 ---
 
 {% include _box.html %}
