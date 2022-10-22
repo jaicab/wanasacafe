@@ -14,21 +14,21 @@ collections:
     title: Uploads
     output: true
 defaults:
-  - scope:
-      path: ""
-      type: "sections"
-    values:
-      tagline: ""
-      box_body: ""
+- scope:
+    path: ''
+    type: sections
+  values:
+    tagline: ''
+    box_body: ''
 Instagram: wanasakitchen
 Menus:
-  - title: All Day Brunch
-    file: "/uploads/wanasa-breakfast-menu.pdf"
-  - title: All Day Lunch
-    file: "/uploads/wanasa-lunch-menu.pdf"
-  - title: For Kids
-    file: "/uploads/wanasa-kids-menu.pdf"
-  - title: Drinks
-    file: "/uploads/wanasa-drinks-menu.pdf"
-  - title: Teas
-    file: "/uploads/wanasa-tea-menu.pdf"
+- title: All Day Brunch
+  file: "/uploads/wanasa-breakfast-menu.pdf"
+- title: All Day Lunch
+  file: "/uploads/wanasa-lunch-menu.pdf"
+- title: For Kids
+  file: "/uploads/wanasa-kids-menu.pdf"
+- title: Drinks
+  file: "/uploads/wanasa-drinks-menu.pdf"
+- title: Teas
+  file: "/uploads/wanasa-tea-menu.pdf"
