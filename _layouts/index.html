@@ -7,19 +7,7 @@
 
   <body>
     <header>
-      <nav>
-        <ul>
-          {% for block in sorted %}
-            {% unless forloop.index == 1 %}
-              <li>
-                <a href="#section_{{ forloop.index }}">{{ block.title}}
-                </a>
-              </li>
-            {% endunless %}
-          {% endfor %}
-          </li>
-        </ul>
-      </nav>
+      {% include _nav.html sorted = sorted %}
     </header>
 
     <main>
@@ -52,5 +40,7 @@
       {% endfor %}
 
     </main>
+    <footer>{% include _nav.html sorted = sorted %}
+    </foooter>
   </body>
 </html>
