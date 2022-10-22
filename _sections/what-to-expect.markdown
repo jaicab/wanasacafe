@@ -8,6 +8,10 @@ box_body: |-
   ### We operate a walk-in policy.
 
   Our lovely team will do everything they can to accommodate. For private parties or events, please get in touch.
+images:
+- "/uploads/expect_1.jpg"
+- "/uploads/expect_2.jpg"
+- "/uploads/expect_3.jpg"
 ---
 
 * **Baby-friendly**: Changing facilities and buggy access.
