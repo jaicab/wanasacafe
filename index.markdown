@@ -14,5 +14,6 @@ menus:
   for kids file: "/uploads/wanasa-kids-menu.pdf"
   drinks file: "/uploads/wanasa-drinks-menu.pdf"
   tea file: "/uploads/wanasa-tea-menu.pdf"
+layout: index
 ---
 
