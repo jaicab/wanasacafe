@@ -4,7 +4,6 @@ date: 2022-10-22 00:13:00 +01:00
 position: 1
 Tagline: We use the freshest ingredients and best producers, mainly from Jordan, Syria,
   Lebanon and Palestine.
-Fancy Body: Kitchen closes at **3pm**
 ---
 
 {% include _box.html content="Kitchen closes at **3pm**" menu = true %}
