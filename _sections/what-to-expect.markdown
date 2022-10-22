@@ -14,3 +14,8 @@ Fancy Body: |-
 * **Sunshine friendly**: Enjoy the sunshine on our peaceful, custom-built back garden.
 * **Laptop friendly**: Super-fast WiFi and plenty of plugs, with different types of seating.
 * **Diet friendly**: Vegetarian, vegan, gluten-free and dairy-free options on all our menus.
+
+{% include _box.html 
+title="We operate a walk-in policy."
+content="Our lovely team will do everything they can to accommodate. For private parties or events, please get in touch." 
+%}
