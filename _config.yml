@@ -2,9 +2,9 @@
 title: Wanasacafe
 timezone: UTC
 collections:
-  home:
+  sections:
     title: Home
-    output: true
+    output: false
     test: value
   posts:
     title: Posts
