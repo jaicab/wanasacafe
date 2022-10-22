@@ -34,12 +34,22 @@ li {
 }
 
 .logo {
-  filter: drop-shadow(2px 5px 0 rgba(51, 88, 82, 1));
+  filter: drop-shadow(2px 3px 0 #335852);
   margin-bottom: 2em;
-  height: 30px;
+  width: 150px;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 4em;
+
+  & + h2 + .description {
+    margin-top: 0;
+  }
+
   @media (min-width: 60em) {
-    height: 50px;
-    margin-bottom: 4em;
+    width: auto;
+    height: 40px;
+    margin-left: 0;
+    margin-bottom: 5em;
   }
 }
 
