@@ -3,14 +3,23 @@
   {% include head.html %}
 
   <body>
-    <header></header>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#section_2">Menu</a></li>
+          <li><a href="#section_3">What To Expect</a></li>
+          <li><a href="#section_4">Our Story</a></li>
+          <li><a href="#section_5">Find Us</a></li>
+        </ul>
+      </nav>
+    </header>
 
     <main>
       {% assign sorted = site.sections | sort: 'position' %}
 
       {% for block in sorted %}
         <!--<pre>{{ block | inspect}}</pre>-->
-        <section class="section {% cycle 'normal', 'alt' %}">
+        <section class="section {% cycle 'normal', 'alt' %}" id="section_{{forloop.index}}">
           <div class="row">
             <div class="content">
               {%if block.id == '/sections/onaesa' %}
