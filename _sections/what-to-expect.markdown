@@ -12,7 +12,4 @@ Tagline: A welcoming space with scandi-arabic design, lovely staff, great drinks
 * **Laptop friendly**: Super-fast WiFi and plenty of plugs, with different types of seating.
 * **Diet friendly**: Vegetarian, vegan, gluten-free and dairy-free options on all our menus.
 
-{% include _box.html 
-title="We operate a walk-in policy."
-content="Our lovely team will do everything they can to accommodate. For private parties or events, please get in touch." 
-%}
+{% include _box.html %}
