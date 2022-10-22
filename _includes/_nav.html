@@ -1,6 +1,6 @@
 <nav>
     <ul>
-      {% for block in sorted %}
+      {% for block in include.sorted %}
         {% unless forloop.index == 1 %}
           <li>
             <a href="#section_{{ forloop.index }}">{{ block.title}}
