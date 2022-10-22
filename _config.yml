@@ -1,6 +1,6 @@
 ---
-title: Wanasacafe
-timezone: UTC
+title: Wanasa Kitchen
+timezone: Europe/London
 collections:
   posts:
     title: Posts
@@ -11,3 +11,15 @@ collections:
   uploads:
     title: Uploads
     output: true
+Instagram Handle: wanasakitchen
+Menus:
+- title: All Day Brunch
+  file: "/uploads/wanasa-breakfast-menu.pdf"
+- title: All Day Lunch
+  file: "/uploads/wanasa-lunch-menu.pdf"
+- title: For Kids
+  file: "/uploads/wanasa-kids-menu.pdf"
+- title: Drinks
+  file: "/uploads/wanasa-drinks-menu.pdf"
+- title: Teas
+  file: "/uploads/wanasa-tea-menu.pdf"
