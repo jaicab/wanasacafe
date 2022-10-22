@@ -1,6 +1,7 @@
 ---
 title: Find Us
 date: 2022-10-22 13:20:00 +01:00
+position: 4
 Tagline: 'We are a 6 min walk from Winchmore Hill train station. '
 ---
 
