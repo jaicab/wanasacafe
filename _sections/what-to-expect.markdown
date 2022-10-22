@@ -11,7 +11,7 @@ box_body: |-
 images:
 - "/uploads/expect_1.jpg"
 - "/uploads/expect_2.jpg"
-- "/uploads/expect_3.jpg"
+- "/uploads/expect_3-41f69e.jpg"
 ---
 
 * **Baby-friendly**: Changing facilities and buggy access.
