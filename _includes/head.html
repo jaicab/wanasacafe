@@ -18,11 +18,7 @@
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
-  <title>
-    {% if page.microtitle %}{{ page.microtitle }} | {{ site.title }} {% elsif
-    page.title %}{{ page.title }} | {{ site.title }} {% else %}{{ site.title
-    }}{% endif %}
-  </title>
+  <title>{{ site.title }}</title>
 
   <link
     rel="canonical"
@@ -32,6 +28,16 @@
   href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="manifest" href="/manifest.json" />
   <meta name="theme-color" content="#329b75" />
+
+  <meta property="og:title" content="{{ site.title }}" />
+  <meta property="og:url" content="{{ site.url }}" />
+  <meta property="og:type" content="website" />
+  <meta
+    name="og:description"
+    content="Neighbourhood cafe serving awesome speciality coffee and tea, delicious artisan treats and authentic Arabic home cooking based on family recipes"
+  />
+  <meta property="og:image" content="{{site.url}}/facebook.png" />
+  <meta property="og:image:secure_url" content="{{site.url}}/facebook.png" />
 
   <meta
     property="og:url"
