@@ -2,7 +2,7 @@
 title: "[onæsa]"
 date: 2022-10-22 00:10:00 +01:00
 position: 0
-tagline: "Arabic for connecting with people \Lin humble settings"
+tagline: "Arabic for connecting with people  \n\Lin humble settings"
 images:
 - "/uploads/home_1.jpg"
 - "/uploads/home_2.jpg"
