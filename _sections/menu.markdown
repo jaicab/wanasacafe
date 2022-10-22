@@ -1,6 +1,6 @@
 ---
-title: menu
-date: 2022-10-21 23:13:00 Z
+title: Menu
+date: 2022-10-22 00:13:00 +01:00
 position: 1
 Description: We use the freshest ingredients and best producers, mainly from Jordan,
   Syria, Lebanon and Palestine.
