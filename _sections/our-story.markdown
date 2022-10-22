@@ -3,6 +3,8 @@ title: Our Story
 date: 2022-10-22 13:18:00 +01:00
 position: 3
 Tagline: My name is Hiyam! Nice to meet you.
+images:
+- "/uploads/story.jpg"
 ---
 
 My family, originally hailing from Jordan, moved to Sweden in 1989 where I grew up, but I spent most of my childhood summers in Saudi Arabia with my wider family.
