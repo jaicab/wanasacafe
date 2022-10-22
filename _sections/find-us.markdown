@@ -2,11 +2,11 @@
 title: Find Us
 date: 2022-10-22 13:20:00 +01:00
 position: 4
-Tagline: 'We are a 6 min walk from Winchmore Hill train station. '
-Box Body: "### For opening hours, please check our Instagram @[{{site.Instagram}}](https://instagram.com/{{site.Instagram}})"
+tagline: 'We are a 6 min walk from Winchmore Hill train station. '
+box_body: "### For opening hours, please check our Instagram @[{{site.Instagram}}](https://instagram.com/{{site.Instagram}})"
 ---
 
-{% include _box.html box=page['Box Body'] %}
+{% include _box.html %}
 
 Free parking
 
