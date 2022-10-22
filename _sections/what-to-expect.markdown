@@ -1,6 +1,7 @@
 ---
 title: What to Expect
 date: 2022-10-22 13:15:00 +01:00
+position: 2
 Tagline: A welcoming space with scandi-arabic design, lovely staff, great drinks and
   even better food.
 Fancy Body: |-
