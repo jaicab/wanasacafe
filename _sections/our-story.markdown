@@ -2,7 +2,7 @@
 title: Our Story
 date: 2022-10-22 13:18:00 +01:00
 position: 3
-Tagline: My name is Hiyam! Nice to meet you.
+tagline: My name is Hiyam! Nice to meet you.
 images:
 - "/uploads/story.jpg"
 ---
