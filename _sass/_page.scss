@@ -13,13 +13,37 @@ body {
   line-height: 1.6;
 }
 
+b,
+strong {
+  font-weight: 600;
+}
+
+a {
+  color: inherit;
+}
+
 .section {
   padding: 2em;
+}
+
+.fancy {
+  border: 8px solid #383a3b;
+  border-image: url(/assets/css/diamonds-black.svg) 33.33% round;
+  padding: 2em;
+  text-align: center;
+
+  .description {
+    opacity: 1;
+  }
 }
 
 .alt {
   background: #fffad0;
   color: #335852;
+
+  .fancy {
+    border-image: url(/assets/css/diamonds-green.svg) 33.33% round;
+  }
 }
 
 .description {
@@ -29,11 +53,7 @@ body {
 
 h2 {
   font-size: 2em;
-}
-
-b,
-strong {
-  font-weight: 600;
+  text-transform: lowercase;
 }
 
 .logo {

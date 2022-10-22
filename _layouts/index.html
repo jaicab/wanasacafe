@@ -9,6 +9,7 @@
       {% assign sorted = site.sections | sort: 'position' %}
 
       {% for block in sorted %}
+        <!--<pre>{{ block | inspect}}</pre>-->
         <section class="section {% cycle 'normal', 'alt' %}">
           {%if block.id == '/sections/onaesa' %}
             <img class="logo" height="50" src="{{ '/assets/img/wanasa-logo.svg' | relative_url }}"/>
@@ -17,9 +18,10 @@
           <h2>{{ block.title }}
           </h2>
           <p class="description">
-            {{ block.description | newline_to_br }}
+            {{ block.Tagline | newline_to_br }}
           </p>
-          <div class="body">{{ block.content }}
+          <div class="body">
+            {{ block.content }}
           </div>
         </section>
       {% else %}
