@@ -7,6 +7,6 @@ Tagline: We use the freshest ingredients and best producers, mainly from Jordan,
 Fancy Body: Kitchen closes at **3pm**
 ---
 
-{% include _box.html content="Kitchen closes at **3pm**" %}
+{% include _box.html content="Kitchen closes at **3pm**" menu = true %}
 
 **Looking for pastries?** They change every day, so you’ll have to ask at the counter.
