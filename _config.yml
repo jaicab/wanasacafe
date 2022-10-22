@@ -11,7 +11,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-Instagram Handle: wanasakitchen
+Instagram: wanasakitchen
 Menus:
 - title: All Day Brunch
   file: "/uploads/wanasa-breakfast-menu.pdf"
