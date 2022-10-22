@@ -1,6 +1,8 @@
 ---
 title: Wanasa Kitchen
 timezone: Europe/London
+baseurl: /wanasacafe
+url: http://jaicab.github.io
 collections:
   posts:
     title: Posts
