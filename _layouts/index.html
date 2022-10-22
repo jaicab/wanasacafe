@@ -2,20 +2,27 @@
 <html lang="en/EN" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
   {% include head.html %}
 
+  {% assign sorted = site.sections | sort: 'position' %}
+
+
   <body>
     <header>
       <nav>
         <ul>
-          <li><a href="#section_2">Menu</a></li>
-          <li><a href="#section_3">What To Expect</a></li>
-          <li><a href="#section_4">Our Story</a></li>
-          <li><a href="#section_5">Find Us</a></li>
+          {% for block in sorted %}
+            {% unless forloop.index == 1 %}
+              <li>
+                <a href="#section_{{ forloop.index }}">{{ block.title}}
+                </a>
+              </li>
+            {% endunless %}
+          {% endfor %}
+          </li>
         </ul>
       </nav>
     </header>
 
     <main>
-      {% assign sorted = site.sections | sort: 'position' %}
 
       {% for block in sorted %}
         <!--<pre>{{ block | inspect}}</pre>-->
