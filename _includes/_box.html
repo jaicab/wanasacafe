@@ -1,0 +1,13 @@
+<div class="fancy">
+  {% if page.id == '/sections/menu' %}
+    {% for menu in site.Menus %}
+      <p class="description">
+        <a href="{{ menu.file | relative_url }}">{{menu.title}}
+        </a>
+      </p>
+    {% endfor %}
+    <br/>
+  {% endif %}
+
+  {{ page.box_body | markdownify }}
+</div>

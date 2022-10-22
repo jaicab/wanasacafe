@@ -22,18 +22,122 @@ a {
   color: inherit;
 }
 
+h2 {
+  font-size: 2em;
+  text-transform: lowercase;
+  margin: 0;
+  margin-top: 1em;
+}
+
+li {
+  margin: 1em 0;
+}
+
+.logo {
+  filter: drop-shadow(2px 5px 0 rgba(51, 88, 82, 1));
+  margin-bottom: 2em;
+  height: 50px;
+  @media (min-width: 60em) {
+    margin-bottom: 4em;
+  }
+}
+
+.description,
+.fancy h3 {
+  font-size: 1.25em;
+  font-weight: 400;
+  opacity: 0.8;
+  margin: 0;
+}
+
+.description {
+  margin: 1em 0 1em 0;
+
+  @media (min-width: 60em) {
+    margin-top: 3em;
+  }
+}
+
 .section {
-  padding: 2em;
+  padding: 2em 0;
+
+  .content {
+    margin: 2em;
+  }
+
+  @media (min-width: 60em) {
+    padding: 5em;
+  }
+}
+
+.row {
+  max-width: 1600px;
+  margin: 0 auto;
+
+  @media (min-width: 60em) {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .content {
+      width: 30%;
+      margin-right: 10%;
+    }
+
+    .images {
+      width: 60%;
+      max-width: 800px;
+    }
+
+    .fancy {
+      max-width: 20em;
+    }
+  }
+}
+
+.images {
+  img {
+    width: 100%;
+    display: block;
+  }
+
+  img,
+  iframe {
+    margin-bottom: 1em;
+  }
+
+  &__squared {
+    display: flex;
+    justify-content: space-between;
+
+    img {
+      width: 50%;
+      width: calc(50% - 0.5em);
+    }
+  }
 }
 
 .fancy {
+  margin: 3em 0;
   border: 8px solid #383a3b;
   border-image: url(/assets/css/diamonds-black.svg) 33.33% round;
   padding: 2em;
   text-align: center;
 
+  &:first-child {
+    margin-top: 1.5em;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  h3,
   .description {
     opacity: 1;
+    & + p {
+      margin-top: 1em;
+    }
   }
 }
 
@@ -44,18 +148,4 @@ a {
   .fancy {
     border-image: url(/assets/css/diamonds-green.svg) 33.33% round;
   }
-}
-
-.description {
-  font-size: 1.25em;
-  opacity: 0.8;
-}
-
-h2 {
-  font-size: 2em;
-  text-transform: lowercase;
-}
-
-.logo {
-  filter: drop-shadow(2px 5px 0 rgba(51, 88, 82, 1));
 }
