@@ -14,10 +14,14 @@ images:
 - "/uploads/expect_3-41f69e.jpg"
 ---
 
-* **Baby-friendly**: Changing facilities and buggy access.
+* **Baby friendly**: Changing facilities and buggy access.
+
 * **Dog friendly**: We have plenty of dog bowls and treats for our four-legged friends.
+
 * **Sunshine friendly**: Enjoy the sunshine on our peaceful, custom-built back garden.
+
 * **Laptop friendly**: Super-fast WiFi and plenty of plugs, with different types of seating.
+
 * **Diet friendly**: Vegetarian, vegan, gluten-free and dairy-free options on all our menus.
 
 {% include _box.html %}
