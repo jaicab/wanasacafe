@@ -13,4 +13,4 @@ images:
 
 {% include _box.html %}
 
-**Looking for pastries?** They change every day, so you’ll have to ask at the counter.
+**Fancy cake?** Have a look at the counter for our freshly made treats baked on-site.
