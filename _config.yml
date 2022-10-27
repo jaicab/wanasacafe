@@ -22,9 +22,9 @@ defaults:
 url: https://wanasacafe.co.uk
 Instagram: wanasakitchen
 Menus:
-- title: All Day Brunch
+- title: All Day Breakfast
   file: "/uploads/wanasa-breakfast-menu.pdf"
-- title: All Day Lunch
+- title: All Day Brunch
   file: "/uploads/wanasa-lunch-menu.pdf"
 - title: For Kids
   file: "/uploads/wanasa-kids-menu.pdf"
