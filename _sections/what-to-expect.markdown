@@ -18,9 +18,7 @@ images:
 
 * **Dog friendly**: We have plenty of dog bowls and treats for our four-legged friends.
 
-* **Sunshine friendly**: Enjoy the sunshine on our peaceful, custom-built back garden.
-
-* **Laptop friendly**: Super-fast WiFi and plenty of plugs, with different types of seating.
+* **Sunshine friendly**: Enjoy the sunshine in our peaceful, plant-filled back garden.
 
 * **Diet friendly**: Vegetarian, vegan, gluten-free and dairy-free options on all our menus.
 
