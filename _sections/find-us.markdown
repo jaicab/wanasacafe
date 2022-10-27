@@ -15,7 +15,7 @@ Free parking
 
 * **Green Lanes** just outside the café – for 2 hours
 
-* **Elm Park Road**, Firs Lane, Green Dragon Lane – all day
+* **Elm Park Road**, **Firs Lane**, **Green Dragon Lane** – all day
 
 * **Shrubbery Gardens** – any time apart from 10:30-11:30am Mon-Fri
 
