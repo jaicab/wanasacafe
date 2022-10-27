@@ -2,8 +2,8 @@
 title: What to Expect
 date: 2022-10-22 13:15:00 +01:00
 position: 2
-tagline: A welcoming space with scandi-arabic design, lovely staff, great drinks and
-  even better food.
+tagline: A welcoming space with scandi-arabic design, welcoming staff, delicious drinks
+  and superb food.
 box_body: |-
   ### We operate a walk-in policy.
 
