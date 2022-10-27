@@ -5,9 +5,9 @@ position: 2
 tagline: A welcoming space with scandi-arabic design, welcoming staff, delicious drinks
   and superb food.
 box_body: |-
-  ### We operate a walk-in policy.
+  ### We operate a walk-in only policy.
 
-  Our lovely team will do everything they can to accommodate. For private parties or events, please get in touch.
+  Our lovely team will do everything they can to accommodate. For larger groups, private parties or events, please get in touch.
 images:
 - "/uploads/expect_1.jpg"
 - "/uploads/expect_2.jpg"
