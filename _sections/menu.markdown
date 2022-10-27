@@ -2,8 +2,9 @@
 title: Menu
 date: 2022-10-22 00:13:00 +01:00
 position: 1
-tagline: We use the freshest ingredients and best producers, mainly from Jordan, Syria,
-  Lebanon and Palestine.
+tagline: 'We are absolutely obsessed good, wholesome food and we use the freshest
+  ingredients and work with fantastic producers to bring you a menu rooted in the
+  Middle East. '
 box_body: Kitchen closes at **3pm**
 images:
 - "/uploads/menu_1.jpg"
