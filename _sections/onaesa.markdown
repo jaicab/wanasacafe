@@ -9,7 +9,7 @@ images:
 - "/uploads/home_3.jpg"
 ---
 
-A neighbourhood cafe serving speciality coffee and tea, delicious artisan treats, and a delicious Middle Eastern breakfast and brunch menu.
+A neighbourhood cafe serving speciality coffee and tea, beautiful artisan treats, and a delicious Middle Eastern breakfast and brunch menu.
 
 Bringing authentic Arabic home cooking based on family recipes to Winchmore Hill.
 
