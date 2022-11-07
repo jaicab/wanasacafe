@@ -15,3 +15,5 @@ images:
 {% include _box.html %}
 
 **Fancy cake?** Have a look at the counter for our freshly made treats baked on-site.
+
+**Need catering or whole cakes for a special occasion?** Get in touch, we would be happy to help. 
