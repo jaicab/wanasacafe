@@ -11,7 +11,7 @@ images:
 
 {% include _box.html %}
 
-Free parking
+Free parking:
 
 * **Green Lanes** just outside the café – anytime for up to 2 hours
 
@@ -21,4 +21,5 @@ Free parking
 
 * **Waitrose parking lot** – for up to 1 hour
 
-For business enquiries, email [hello@wanasacafe.co.uk](mailto:hello@wanasacafe.co.uk).
+To contact us: 
+Email [hello@wanasacafe.co.uk](mailto:hello@wanasacafe.co.uk) or call us at 020 8374 0845.
