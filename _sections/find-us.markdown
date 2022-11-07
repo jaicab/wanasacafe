@@ -21,5 +21,6 @@ Free parking:
 
 * **Waitrose parking lot** – for up to 1 hour
 
-To contact us: 
+To get in touch:
+
 Email [hello@wanasacafe.co.uk](mailto:hello@wanasacafe.co.uk) or call us at 020 8374 0845.
