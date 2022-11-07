@@ -2,7 +2,7 @@
 title: Menu
 date: 2022-10-22 00:13:00 +01:00
 position: 1
-tagline: 'We are absolutely obsessed with good, wholesome food. We use the freshest
+tagline: 'We are absolutely obsessed about good, wholesome food. We use the freshest
   ingredients and work with fantastic producers to bring you a menu rooted in the
   Middle East. '
 box_body: Kitchen closes at **3pm**
