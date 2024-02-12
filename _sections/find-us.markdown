@@ -19,7 +19,6 @@ Free parking:
 
 * **Shrubbery Gardens** – any time apart from 10:30-11:30am Mon-Fri
 
-* **Waitrose parking lot** – for up to 1 hour
 
 To get in touch:
 
