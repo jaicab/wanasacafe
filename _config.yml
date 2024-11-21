@@ -22,12 +22,10 @@ defaults:
 url: https://wanasacafe.co.uk
 Instagram: wanasakitchen
 Menus:
-- title: Breakfast
-  file: "/uploads/wanasa-breakfast-menu-269b0d.pdf"
-- title: Brunch
-  file: "/uploads/wanasa-lunch-menu-cf60e6.pdf"
+- title: Breakfast & Brunch
+  file: "/uploads/wanasa-lunch-menu-ac0133.pdf"
 - title: For Kids
-  file: "/uploads/wanasa-kids-menu-7246f3.pdf"
+  file: "/uploads/wanasa-kids-menu-7ecb29.pdf"
 - title: Drinks
   file: "/uploads/wanasa-drinks-menu-e5e6a8.pdf"
 - title: Teas
