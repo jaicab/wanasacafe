@@ -5,7 +5,7 @@ position: 1
 tagline: 'We are absolutely obsessed about good, wholesome food. We use the freshest
   ingredients and work with fantastic producers to bring you a menu rooted in the
   Middle East. '
-box_body: Kitchen Open Until **4:30pm**
+box_body: Kitchen Open Until **5pm**
 images:
 - "/uploads/menu_1.jpg"
 - "/uploads/menu_2.jpg"
