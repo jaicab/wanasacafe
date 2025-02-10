@@ -6,9 +6,7 @@ tagline: 'We are a 6 min walk from Winchmore Hill train station. '
 box_body: |-
   ### **Opening Hours:**
 
-  Wed - Fri: 9am to 4pm <br>
-  Sat: 9am to 5pm <br>
-  Sun: 10am to 4pm
+  Tue - Sun: 8:30am to 5pm <br>
 images:
 - "/uploads/find_2.jpg"
 - "/uploads/find_3.jpg"
